@@ -1,4 +1,7 @@
 # Embedded ML Speech Command Recognition on ATmega32A
+> [!IMPORTANT]
+>## Version 2 of this project can be found at: https://www.kaggle.com/code/michaelmatta0/embedded-ml-keyword-spotting-2kb-ram-32kb-flash
+
 
 This repository contains a complete machine learning pipeline for embedded deployment: train on PC, export to a C header, and run fixed-shape inference on ATmega32A firmware.
 
